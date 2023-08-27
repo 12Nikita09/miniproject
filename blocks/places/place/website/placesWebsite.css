@@ -1,0 +1,6 @@
+.placesWebsite{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 48px;
+    justify-content:flex-end;
+}

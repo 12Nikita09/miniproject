@@ -7,4 +7,5 @@
     flex-direction: column;
     justify-content: center;
     position: relative;
+    gap: 45px;
 }

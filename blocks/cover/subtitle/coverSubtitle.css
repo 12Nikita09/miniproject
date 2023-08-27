@@ -1,0 +1,11 @@
+ .coverSubtitle {
+     display: flex;
+     width: 320px;
+     text-align: center;
+     font-size: 18px;
+     color: #FFF;
+     font-family: Inter;
+     font-style: normal;
+     z-index: 1;
+     margin: 0 auto;
+ }
